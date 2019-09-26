@@ -1,5 +1,4 @@
 # Datasart
-Learning about data science
 current_time = '2014-07-26 02:12:18:'
 my_city = ''
 my_state = ''
